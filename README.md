@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vitoriaferreira10
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning javascript and english
-- 💞️ I'm looking for opportunities in the development area, focusing on backend
+- 👀 I’m interested in devops
+- 🌱 I’m currently learning kubernets and english
+- 💞️ I'm looking for opportunities in the development area or devops, focusing
 - 📫 How to reach me https://www.linkedin.com/in/vitoriaferreira10/
 
 <!---
