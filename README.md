@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vitoriaferreira10
 - 👀 I’m interested in devops
-- 🌱 I’m currently learning kubernets and english
+- 🌱 I’m currently learning kubernetes and english
 - 💞️ I'm looking for opportunities in the development area or devops, focusing
 - 📫 How to reach me https://www.linkedin.com/in/vitoriaferreira10/
 
